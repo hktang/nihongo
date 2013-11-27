@@ -2,7 +2,7 @@ Family members
 ==============
 Unit 1, Lesson 2
 
-| Member(s)| Mine   | kana | Others'  | kana 
+| Member(s) in Chinese | Mine   | Mine (kana) | Others'  | Others' (kana )
 |----------|-------|------|-----|------
 | 祖父		|	祖父	| そふ |	おじいさん| ~
 | 祖母		|	祖母	|	そぼ | おばあさん| ~
