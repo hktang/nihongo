@@ -16,3 +16,6 @@ Unit 1
 * [基本课文](20131211-lesson-4.md)
 * [表示空间关系的词语](20131211-lesson-4.md#words-indicating-spacial-relations)
 * [第四课词汇](20131211-lesson-4.md#lesson-4-vocab)
+
+### Unit 1 bonus vocab
+* [单元末词汇第一弹：家居](20131216-unit-1-bonus-vocab.md)
