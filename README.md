@@ -19,3 +19,9 @@ Unit 1
 
 ### Unit 1 bonus vocab
 * [单元末词汇第一弹：家居](20131216-unit-1-bonus-vocab.md)
+
+Unit 2
+----------
+
+### Lesson 5
+* [基本课文](20131217-lesson-5.md)
