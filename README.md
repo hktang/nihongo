@@ -5,9 +5,9 @@ Unit 1
 ----------
 
 ### Lesson 2
-* [家庭成员的说法](20131127-family-members.md) 
-* [由近及远的指示代词](20131130-this-and-that.md)
-* [第二课词汇](20131130-this-and-that.md#lesson-2-vocab)
+* [家庭成员的说法](20131127-lesson-2.md) 
+* [由近及远的指示代词](20131127-lesson-2.md#this-and-that)
+* [第二课词汇](20131127-lesson-2.md#lesson-2-vocab)
 
 ### Lesson 3
 * [第三课词汇](20131211-lesson-3-vocab.md)
