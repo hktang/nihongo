@@ -29,3 +29,8 @@ Unit 2
 * [应用课文](20131217-lesson-5.md#text-b-%E9%81%85%E5%88%BB)
 * [时间用语大合集](20131217-lesson-5.md#bygones-right-nows-and-to-comes)
 * [第五课词汇](20131217-lesson-5.md#lesson-5-vocab)
+
+### Lesson 5
+* [基本课文](20131222-lesson-6.md)
+* [语法](20131222-lesson-6.md#grammar)
+* [日日月月的说法](20131222-lesson-6.md#dates-and-months)
