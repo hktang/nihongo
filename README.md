@@ -34,3 +34,4 @@ Unit 2
 * [基本课文](20131222-lesson-6.md)
 * [语法](20131222-lesson-6.md#grammar)
 * [日日月月的说法](20131222-lesson-6.md#dates-and-months)
+* [词汇解释](20131222-lesson-6.md#useful-expressions)
