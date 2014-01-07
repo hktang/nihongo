@@ -36,3 +36,4 @@ Unit 2
 * [日日月月的说法](20131222-lesson-6.md#dates-and-months)
 * [词汇解释](20131222-lesson-6.md#useful-expressions)
 * [应用课文：交通機関](20131222-lesson-6.md#text-b-%E4%BA%A4%E9%80%9A%E6%A9%9F%E9%96%A2)
+* [第六课词汇](20131222-lesson-6.md#lesson-6-vocab)
