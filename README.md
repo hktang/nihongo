@@ -43,6 +43,6 @@ Unit 2
 * [语法](20140110-lesson-7.md#grammar)
 * [一天的生活](20140110-lesson-7.md#things-to-do)
 * [用法解释](20140110-lesson-7.md#useful-expressions)
-* [应用课文：交通機関](20140110-lesson-7.md#text-b-%E6%98%BC%E3%81%94%E9%A3%AF)
+* [应用课文：昼ご飯](20140110-lesson-7.md#text-b-%E6%98%BC%E3%81%94%E9%A3%AF)
 * [第七课词汇](20140110-lesson-7.md#lesson-6-vocab)
 
